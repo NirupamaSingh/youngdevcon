@@ -109,7 +109,6 @@ ul.social-links li a i {
   bottom: 0;
 }
 
-
 @media (max-width: 767px) {
   .text-overlay:after {
     font-size: 100px;
